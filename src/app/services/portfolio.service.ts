@@ -47,8 +47,8 @@ export class PortfolioService {
         'A full-featured e-commerce solution with cart, checkout, and payment integration.',
       image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop',
       techStack: ['Angular', 'Node.js', 'MongoDB', 'Stripe'],
-      githubLink: 'https://github.com',
-      demoLink: 'https://demo.com',
+      githubLink: 'https://github.com/SeyTzy',
+      demoLink: 'https://school-manangement-crud-5gac6f00z-seytzys-projects.vercel.app',
     },
     {
       id: 2,
@@ -57,8 +57,8 @@ export class PortfolioService {
         'A comprehensive CRUD application with Create, Read, Update, Delete operations and data management.',
       image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=300&fit=crop',
       techStack: ['Angular', 'Node.js', 'MongoDB', 'TypeScript'],
-      githubLink: 'https://github.com',
-      demoLink: 'https://demo.com',
+      githubLink: 'https://github.com/SeyTzy',
+      demoLink: 'https://school-manangement-crud-5gac6f00z-seytzys-projects.vercel.app',
     },
     {
       id: 3,
@@ -66,8 +66,8 @@ export class PortfolioService {
       description: 'Collaborative task manager with Kanban boards, assignments, and due dates.',
       image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=300&fit=crop',
       techStack: ['Angular', 'React', 'Express', 'PostgreSQL'],
-      githubLink: 'https://github.com',
-      demoLink: 'https://demo.com',
+      githubLink: 'https://github.com/SeyTzy',
+      demoLink: 'https://task-management-app-demo.vercel.app',
     },
     {
       id: 4,
@@ -75,8 +75,8 @@ export class PortfolioService {
       description: 'Beautiful weather app with forecasts, maps, and severe weather alerts.',
       image: 'https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=400&h=300&fit=crop',
       techStack: ['Angular', 'OpenWeather API', 'Chart.js'],
-      githubLink: 'https://github.com',
-      demoLink: 'https://demo.com',
+      githubLink: 'https://github.com/SeyTzy',
+      demoLink: 'https://weather-dashboard-demo.vercel.app',
     },
     {
       id: 5,
@@ -84,8 +84,8 @@ export class PortfolioService {
       description: 'My first portfolio website showcasing projects and skills.',
       image: 'https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=400&h=300&fit=crop',
       techStack: ['HTML', 'CSS', 'JavaScript'],
-      githubLink: 'https://github.com',
-      demoLink: 'https://demo.com',
+      githubLink: 'https://github.com/SeyTzy',
+      demoLink: 'https://portfolio-v1-demo.vercel.app',
     },
     {
       id: 6,
@@ -93,8 +93,8 @@ export class PortfolioService {
       description: 'Content management system for bloggers with Markdown support and SEO tools.',
       image: 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=400&h=300&fit=crop',
       techStack: ['Angular', 'WordPress REST API', 'Firebase'],
-      githubLink: 'https://github.com',
-      demoLink: 'https://demo.com',
+      githubLink: 'https://github.com/SeyTzy',
+      demoLink: 'https://blog-cms-demo.vercel.app',
     },
   ]);
 
