@@ -24,7 +24,7 @@ import { PortfolioService } from '../../services/portfolio.service';
           <div class="about-text">
             <h3>Passionate Angular Developer with 4+ Years of Experience</h3>
             <p>
-              I'm a dedicated Angular developer with a passion for building modern, scalable web applications. 
+              I'm a Angular developer with a passion for building modern, scalable web applications. 
               Over the years, I've worked with various startups and companies to deliver high-quality 
               solutions that exceed expectations. My expertise spans from Angular fundamentals to advanced 
               patterns like RxJS, NgRx, and server-side rendering.
