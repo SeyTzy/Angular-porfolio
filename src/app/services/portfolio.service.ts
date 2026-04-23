@@ -48,7 +48,7 @@ export class PortfolioService {
       image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop',
       techStack: ['Angular', 'Node.js', 'MongoDB', 'Stripe'],
       githubLink: 'https://github.com/SeyTzy',
-      demoLink: 'https://school-manangement-crud-5gac6f00z-seytzys-projects.vercel.app',
+      demoLink: 'https://e-commerce-platform-he16x4z7d-seytzys-projects.vercel.app',
     },
     {
       id: 2,
