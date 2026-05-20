@@ -68,7 +68,7 @@ export class PortfolioService {
       image: 'https://media.licdn.com/dms/image/v2/C4D12AQENw9GUPGXhxw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1563704499299?e=2147483647&v=beta&t=3J-GoauNYX82R23Y37PCAncHfxw3E_I4ukHmyIhMXvI',
       techStack: ['HTML', 'CSS', 'JavaScript'],
       githubLink: 'https://github.com/SeyTzy',
-      demoLink: 'https://portfolio-v1-eims5agk0-seytzys-projects.vercel.app',
+      demoLink: 'https://portfolio-v1-fetzs97xg-seytzys-projects.vercel.app',
     },
 
     {
