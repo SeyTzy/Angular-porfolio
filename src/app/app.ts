@@ -6,6 +6,9 @@ import { SkillsComponent } from './components/skills/skills.component';
 import { ProjectsComponent } from './components/projects/projects.component';
 import { ExperienceComponent } from './components/experience/experience.component';
 import { ContactComponent } from './components/contact/contact.component';
+import { TestimonialsComponent } from './components/testimonials/testimonials.component';
+import { BlogComponent } from './components/blog/blog.component';
+import { CertificationsComponent } from './components/certifications/certifications.component';
 import { FooterComponent } from './components/footer/footer.component';
 
 @Component({
@@ -18,6 +21,9 @@ import { FooterComponent } from './components/footer/footer.component';
     ProjectsComponent,
     ExperienceComponent,
     ContactComponent,
+    TestimonialsComponent,
+    BlogComponent,
+    CertificationsComponent,
     FooterComponent
   ],
   template: `
@@ -28,6 +34,9 @@ import { FooterComponent } from './components/footer/footer.component';
       <app-skills />
       <app-projects />
       <app-experience />
+      <app-testimonials />
+      <app-blog />
+      <app-certifications />
       <app-contact />
     </main>
     <app-footer />

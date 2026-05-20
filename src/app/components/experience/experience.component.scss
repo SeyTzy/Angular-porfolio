@@ -136,17 +136,36 @@
   }
 }
 
+@media (max-width: 900px) {
+  .experience {
+    padding: 4rem 0;
+  }
+}
+
 @media (max-width: 768px) {
+  .section-title {
+    font-size: 1.75rem;
+  }
+
+  .section-subtitle {
+    font-size: 0.95rem;
+  }
+
+  .section-header {
+    margin-bottom: 2rem;
+  }
+
   .timeline::before {
-    left: 16px;
+    left: 12px;
   }
 
   .timeline-item {
     width: 100%;
     left: 0;
     text-align: left;
-    padding-left: 3rem;
+    padding-left: 2.25rem;
     padding-right: 0;
+    margin-bottom: 1rem;
 
     &.left,
     &.right {
@@ -155,12 +174,62 @@
   }
 
   .timeline-dot {
-    left: 8px !important;
+    width: 12px;
+    height: 12px;
+    left: 6px !important;
     right: auto !important;
+    border-width: 3px;
+  }
+
+  .timeline-content {
+    padding: 0.9rem 1rem;
+    border-radius: 8px;
+  }
+
+  .timeline-period {
+    font-size: 0.75rem;
+  }
+
+  .timeline-title {
+    font-size: 1rem;
+    margin: 0.3rem 0 0.15rem;
+  }
+
+  .timeline-company {
+    font-size: 0.85rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .timeline-description {
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .timeline-type {
+    font-size: 0.65rem;
+    padding: 0.2rem 0.6rem;
   }
 
   .left .timeline-content,
   .right .timeline-content {
     text-align: left;
+  }
+}
+
+@media (max-width: 400px) {
+  .timeline-item {
+    padding-left: 1.75rem;
+  }
+
+  .timeline-content {
+    padding: 0.75rem;
+  }
+
+  .timeline-title {
+    font-size: 0.9rem;
+  }
+
+  .timeline-description {
+    font-size: 0.75rem;
   }
 }
